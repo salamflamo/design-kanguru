@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="387.886"
-     inkscape:cy="-387.36599"
+     inkscape:cx="697.66247"
+     inkscape:cy="-1069.6251"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -427,14 +427,6 @@
        x="587.97626"
        y="1182.225" />
     <rect
-       transform="matrix(0,-1,1,0,0,0)"
-       y="533.22455"
-       x="-1660.8104"
-       height="371.26352"
-       width="523.62567"
-       id="rect4825"
-       style="opacity:1;fill:none;fill-opacity:0.65248228;stroke:#000000;stroke-width:0.78372943" />
-    <rect
        style="opacity:1;fill:#ea4c90;fill-opacity:1;stroke:none"
        id="rect4829"
        width="373.01077"
@@ -526,7 +518,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-opacity:0">BABY CARRIER</tspan></text>
     </g>
     <image
-       transform="matrix(1.0940171,0,0,1.0940171,-35.14903,2108.3468)"
+       transform="matrix(0.70383321,0,0,0.70383321,191.67013,1747.6011)"
        clip-path="url(#clipPath4164)"
        width="485.78909"
        height="727.82233"
@@ -558,5 +550,442 @@
            x="187.88837"
            y="960.26715" /></flowRegion><flowPara
          id="flowPara4909"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Umpush;-inkscape-font-specification:Umpush;text-align:justify;text-anchor:start;fill:#ff00ff">Kaos kanguru sangat cocok untuk Anda yang menginginkan kemudahan dalam menggunakan carrier untuk buah hati Anda, karena dengan kaos ini Anda tak perlu lagi dengan repot menggunakan carrier, cukup menggunakan kaos ini sudah termasuk menggunakan carrier.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Umpush;-inkscape-font-specification:Umpush;text-align:justify;text-anchor:start;fill:#ff00ff">Kaos kanguru sangat cocok untuk Anda yang menginginkan kemudahan dalam menggunakan carrier untuk buah hati Anda, karena dengan kaos ini Anda tak perlu lagi dengan repot menggunakan carrier, cukup menggunakan kaos ini sudah termasuk menggunakan carrier.</flowPara></flowRoot>    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       y="161.3396"
+       x="-2307.1458"
+       height="742.98615"
+       width="523.30109"
+       id="rect4209"
+       style="opacity:1;fill:none;fill-opacity:0.65248228;stroke:#000000;stroke-width:1.10835969" />
+    <g
+       id="g4222"
+       transform="translate(-372.59895,646.49763)">
+      <rect
+         ry="0"
+         rx="0"
+         y="1136.7928"
+         x="534.8996"
+         height="63.400471"
+         width="369.98032"
+         id="rect4224"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:55.64008713px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+         x="590.41736"
+         y="1183.4929"
+         id="text4226"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4228"
+           x="590.41736"
+           y="1183.4929"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-opacity:0">BABY CARRIER</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#ea4c90;fill-opacity:1;stroke:none"
+       id="rect4230"
+       width="373.01077"
+       height="89.451332"
+       x="160.78542"
+       y="2218.2485"
+       rx="0"
+       ry="0" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4232"
+       y="2292.1353"
+       x="348.44308"
+       style="font-style:normal;font-weight:normal;font-size:38.86183929px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ececec;stroke-width:0.82592225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.43914032px;line-height:100%;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ececec;stroke-width:0.82592225;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4234"
+         y="2292.1353"
+         x="348.44308"
+         sodipodi:role="line">KANGURU</tspan></text>
+    <rect
+       ry="0"
+       rx="0"
+       y="1783.2905"
+       x="531.86914"
+       height="89.451332"
+       width="373.01077"
+       id="rect4215"
+       style="opacity:1;fill:#ea4c90;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:38.86183929px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ececec;stroke-width:0.82592225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="719.52679"
+       y="1857.1772"
+       id="text4217"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="719.52679"
+         y="1857.1772"
+         id="tspan4219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.43914032px;line-height:100%;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ececec;stroke-width:0.82592225;stroke-miterlimit:4;stroke-dasharray:none">KANGURU</tspan></text>
+    <g
+       transform="translate(-1.5152283,1107.5066)"
+       id="g4236">
+      <rect
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none"
+         id="rect4238"
+         width="369.98032"
+         height="63.400471"
+         x="534.8996"
+         y="1136.7928"
+         rx="0"
+         ry="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4240"
+         y="1183.4929"
+         x="590.41736"
+         style="font-style:normal;font-weight:normal;font-size:55.64008713px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-opacity:0"
+           y="1183.4929"
+           x="590.41736"
+           id="tspan4242"
+           sodipodi:role="line">BABY CARRIER</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4344"
+       y="1934.4567"
+       x="604.67517"
+       style="font-style:normal;font-weight:normal;font-size:29.10543823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.21087646px;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ea4c89;fill-opacity:1"
+         y="1934.4567"
+         x="604.67517"
+         id="tspan4346"
+         sodipodi:role="line">Order Now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.10543823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="647.55823"
+       y="1989.8853"
+       id="text4348"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4350"
+         sodipodi:role="line"
+         x="647.55823"
+         y="1989.8853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.93451691px;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ea4c89;fill-opacity:1">@kangurubc</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4352"
+       y="2206.6799"
+       x="648.28595"
+       style="font-style:normal;font-weight:normal;font-size:29.10543823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.93451691px;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ea4c89;fill-opacity:1"
+         y="2206.6799"
+         x="648.28595"
+         sodipodi:role="line"
+         id="tspan4354">Rp. 65.000</tspan></text>
+    <g
+       transform="matrix(0.12607005,0,0,0.12607005,405.15108,1943.5948)"
+       id="g4356">
+      <rect
+         ry="30.672028"
+         rx="31.937019"
+         y="115.57486"
+         x="1353.9556"
+         height="319.97464"
+         width="319.97464"
+         id="rect4358"
+         style="opacity:0.94199997;fill:#ea4c89;fill-opacity:1;stroke:#ececec;stroke-width:1.42534161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:0.94199997;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4360"
+         width="242.77063"
+         height="242.77063"
+         x="1392.5576"
+         y="154.17686"
+         rx="66.128571"
+         ry="66.128571" />
+      <circle
+         r="57.142857"
+         cy="275.56219"
+         cx="1513.9429"
+         id="circle4362"
+         style="opacity:0.94199997;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:0.94199997;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.50970316;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4364"
+         cx="1584.6536"
+         cy="203.84137"
+         r="12.134225" />
+    </g>
+    <g
+       transform="matrix(0.12607075,0,0,0.12607075,350.38928,1995.2297)"
+       id="g4366">
+      <rect
+         style="opacity:0.94199997;fill:#ea4c89;fill-opacity:1;stroke:#ececec;stroke-width:1.42534161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4368"
+         width="319.97464"
+         height="319.97464"
+         x="1788.3212"
+         y="115.57486"
+         rx="31.937019"
+         ry="30.672028" />
+      <path
+         sodipodi:nodetypes="cccccsscccsccccccscccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4370"
+         d="m 1939.483,309.8673 -28.1043,0 0,-51.18987 29.4426,0 0,-41.15254 c 0,0 0.3346,-4.85135 1.3382,-9.03354 1.0037,-4.18219 2.1748,-9.36807 2.8439,-10.53908 0.6692,-1.17101 1.8402,-4.18219 3.1786,-6.35689 1.3382,-2.17471 4.3494,-7.19336 5.855,-9.03351 1.5054,-1.84017 4.0148,-4.51675 6.0222,-6.02235 2.0075,-1.50558 5.0187,-3.8476 7.3607,-5.18589 2.342,-1.3383 6.1896,-3.34574 8.197,-4.18217 2.0076,-0.83643 9.7026,-3.01116 9.7026,-3.01116 l 6.8589,-0.66916 54.3684,0 0,49.68425 -34.294,0 c 0,0 -2.8438,-0.16733 -4.8512,1.50554 -2.0076,1.67295 -3.6804,3.01117 -4.1822,4.01496 -0.502,1.0037 -1.5057,2.17471 -1.6728,3.1784 -0.1674,1.0037 -0.3346,2.17471 -0.3346,2.17471 l 0,34.62843 46.171,0 -5.0185,51.18987 -41.4873,0 0,126.90454 -61.3942,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4372"
+       y="2041.5526"
+       x="647.55823"
+       style="font-style:normal;font-weight:normal;font-size:29.10543823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.93451691px;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ea4c89;fill-opacity:1"
+         y="2041.5526"
+         x="647.55823"
+         sodipodi:role="line"
+         id="tspan4374">@kangurubc</tspan></text>
+    <g
+       transform="matrix(0.12607075,0,0,0.12607075,274.02643,2046.9948)"
+       id="g4376">
+      <rect
+         ry="30.672028"
+         rx="31.937019"
+         y="115.57486"
+         x="2394.0354"
+         height="319.97464"
+         width="319.97464"
+         id="rect4378"
+         style="opacity:0.94199997;fill:#ea4c89;fill-opacity:1;stroke:#ececec;stroke-width:1.42534161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(0.34461325,-0.33448826)"
+         id="g4380">
+        <path
+           style="opacity:0.94199997;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:18;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2558.1333,158.53414 a 111.71429,112.12089 0 0 0 -111.7148,112.12141 111.71429,112.12089 0 0 0 16.3838,58.25759 l -20.0218,59.22938 60.6832,-19.77469 a 111.71429,112.12089 0 0 0 54.6696,14.40903 111.71429,112.12089 0 0 0 111.7147,-112.12131 111.71429,112.12089 0 0 0 -111.7147,-112.12141 z"
+           id="path4382"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 2524.3895,208.59353 c -1.0239,-0.0785 -13.3892,0.31533 -13.3892,0.31533 -12.2739,9.84396 -18.0861,19.60483 -16.6951,35.20245 0.2363,2.36264 0.8651,5.35497 1.1801,6.85136 3.2804,11.98327 10.3533,22.17414 17.2481,32.28933 l 8.1899,10.8292 c 12.3761,13.64636 26.7121,25.21551 41.5683,32.49414 8.4211,4.40492 20.5978,9.68898 29.1471,10.17622 13.3507,0.50021 28.038,-7.99123 33.0749,-19.14484 0,0 1.4316,-11.03208 1.3006,-12.05057 -7.1219,-5.24217 -25.2599,-18.22214 -33.7329,-16.94142 -17.0598,17.38623 -13.2061,20.02742 -31.099,10.56733 -5.5843,-3.72769 -9.9421,-7.02195 -14.6675,-11.98689 l -0.1343,0.12402 c -5.8648,-5.40534 -18.4731,-20.89862 -19.5497,-28.00833 0.4854,-1.86252 2.438,-3.10223 3.7797,-4.41022 3.2837,-3.83645 7.3743,-7.40961 8.8071,-12.398 -2.7137,-10.92164 -8.2411,-21.42537 -12.43,-31.94013 0,0 -1.5741,-1.89066 -2.5979,-1.96916 z"
+           id="path4384"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccc" />
+      </g>
+    </g>
+    <g
+       id="g4421">
+      <circle
+         r="17.544298"
+         cy="2135.8684"
+         cx="594.1601"
+         id="path4386"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ea4c89;stroke-width:2.83464567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4388"
+         d="m 578.94778,2127.481 c 30.18102,0 30.92166,0 30.92166,0 l -0.54141,0.1451"
+         style="fill:none;fill-rule:evenodd;stroke:#ea4c89;stroke-width:2.83464567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ea4c89;stroke-width:2.83464567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 576.07221,2135.8141 c 35.08928,0 35.95036,0 35.95036,0 l -0.62944,0.1406"
+         id="path4390"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ea4c89;stroke-width:2.83464567;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 578.57316,2144.5971 c 30.18102,0 30.92165,0 30.92165,0 l -0.54141,0.1451"
+         id="path4394"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         ry="17.439365"
+         rx="5.218833"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ea4c89;stroke-width:2.83464567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4396"
+         cx="594.1601"
+         cy="2135.8684" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4401"
+         d="m 595.88322,2140.376 4.4792,14.7121 2.61647,-5.0567 9.66191,9.6619 2.55959,-2.5596 -9.66191,-9.6619 5.05688,-2.6167 -14.71214,-4.4791 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ea4c89;stroke-width:2.83464567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.10543823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="647.8186"
+       y="2150.8525"
+       id="text4429"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4431"
+         sodipodi:role="line"
+         x="647.8186"
+         y="2150.8525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.93451691px;font-family:'Birthday Boy';-inkscape-font-specification:'Birthday Boy';fill:#ea4c89;fill-opacity:1">kangurubc.com</tspan></text>
+    <g
+       id="g4455"
+       transform="translate(610.13214,-2084.9549)">
+      <rect
+         y="1984.4277"
+         x="958.66333"
+         height="104.35005"
+         width="229.99809"
+         id="rect4437"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4435"
+         width="229.99809"
+         height="104.35005"
+         x="951.49719"
+         y="1976.4183" />
+      <rect
+         y="1968.4089"
+         x="944.33112"
+         height="104.35005"
+         width="229.99809"
+         id="rect4433"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.20767665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4439"
+         width="213.64989"
+         height="86.793335"
+         x="952.50519"
+         y="1977.1874" />
+      <ellipse
+         ry="16.626558"
+         rx="14.876122"
+         cy="1987.1353"
+         cx="1157.644"
+         id="path4441"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="16.626558"
+         rx="14.876122"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4443"
+         cx="960.70331"
+         cy="1987.1353" />
+      <ellipse
+         ry="16.626558"
+         rx="14.876122"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4445"
+         cx="1157.644"
+         cy="2053.6416" />
+      <ellipse
+         ry="16.626558"
+         rx="14.876122"
+         cy="2053.6416"
+         cx="960.70331"
+         id="circle4447"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="49.626202"
+         rx="31.964285"
+         cy="2020.584"
+         cx="1059.3301"
+         id="path4449"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.85785129,1.1657032)"
+         sodipodi:linespacing="125%"
+         id="text4451"
+         y="1745.8411"
+         x="1205.1487"
+         style="font-style:normal;font-weight:normal;font-size:40.85346985px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           y="1745.8411"
+           x="1205.1487"
+           id="tspan4453"
+           sodipodi:role="line">Rp.</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.23548302,0,0,0.23548302,353.12025,1719.0844)"
+       id="g4468">
+      <rect
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4470"
+         width="229.99809"
+         height="104.35005"
+         x="958.66333"
+         y="1984.4277" />
+      <rect
+         y="1976.4183"
+         x="951.49719"
+         height="104.35005"
+         width="229.99809"
+         id="rect4472"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:#ffffff;stroke-width:2.51159382;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4474"
+         width="229.99809"
+         height="104.35005"
+         x="944.33112"
+         y="1968.4089" />
+      <rect
+         y="1977.1874"
+         x="952.50519"
+         height="86.793335"
+         width="213.64989"
+         id="rect4476"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.20767665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4478"
+         cx="1157.644"
+         cy="1987.1353"
+         rx="14.876122"
+         ry="16.626558" />
+      <ellipse
+         cy="1987.1353"
+         cx="960.70331"
+         id="ellipse4480"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="14.876122"
+         ry="16.626558" />
+      <ellipse
+         cy="2053.6416"
+         cx="1157.644"
+         id="ellipse4482"
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="14.876122"
+         ry="16.626558" />
+      <ellipse
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4484"
+         cx="960.70331"
+         cy="2053.6416"
+         rx="14.876122"
+         ry="16.626558" />
+      <ellipse
+         style="opacity:1;fill:#ea4c89;fill-opacity:1;stroke:none;stroke-width:2.83464575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4486"
+         cx="1059.3301"
+         cy="2020.584"
+         rx="31.964285"
+         ry="49.626202" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40.85346985px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1205.1487"
+         y="1745.8411"
+         id="text4488"
+         sodipodi:linespacing="125%"
+         transform="scale(0.85785129,1.1657032)"><tspan
+           sodipodi:role="line"
+           id="tspan4490"
+           x="1205.1487"
+           y="1745.8411"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Rp.</tspan></text>
+    </g>
+  </g>
 </svg>
