@@ -1,5 +1,5 @@
 # design-kanguru
 
-##Silahkan pull kalo pengen##
+## Silahkan pull kalo pengen ##
 
-###Mausuk ke folder kumpulan-design###
+### Mausuk ke folder kumpulan-design ###
